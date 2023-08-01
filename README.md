@@ -1,6 +1,5 @@
-- 👋 Hi, I’m oussama chahidi
+- 👋 Hi, I’m Oussama Chahidi
 - 👀 I’m interested in the web technologies!
-- 🌱 I’m currently learning new stuff like react, NodeJs(express),TypeScript and more.....
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on gmail (oussamachahidi20@gmail.com) or twitter (@OussamaChahidi6)
+- 🌱 I’m currently learning new stuff like react, ExpressJs, TypeScript, GraphQL and more....
+- 📫 How to reach me on [gmail](oussamachahidi20@gmail.com) or [linkedIn](https://www.linkedin.com/in/oussama-chahidi-aa1252219/)
 - 📄 My portfolio [visit](https://portfolio-pi-three-67.vercel.app/)
