@@ -8,5 +8,4 @@
 
 - My [Dev Card](https://app.daily.dev/OussamaX)
 
-
-
+<a href="https://app.daily.dev/OussamaX"><img src="https://api.daily.dev/devcards/1ca8095c251a4680af1964bdde1f45a8.png?r=lnk" width="400" alt="oussama chahidi's Dev Card"/></a>
