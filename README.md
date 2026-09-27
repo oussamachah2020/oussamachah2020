@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<img width="736" height="736" alt="__" src="https://github.com/user-attachments/assets/c3856fff-9227-455f-86a6-bf79201f0fe1" />
-
-
 # Oussama Chahidi
 
 **Crafting thoughtful interfaces & building products end-to-end.**
