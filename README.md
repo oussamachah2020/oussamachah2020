@@ -2,24 +2,30 @@
 
 # Oussama Chahidi
 
-**I build. I ship. I share products people actually use.**
+**Crafting thoughtful interfaces & building products end-to-end.**
 
-Full-stack developer · React · TypeScript · Node.js
+Frontend Engineer & Design Enthusiast . React · TypeScript · Node.js
 
-[Portfolio](https://oussamachahidi.me) · [LinkedIn](https://www.linkedin.com/in/oussama-chahidi-aa1252219/) · [Twitter/X](https://x.com/Exo2Dev) · [Email](mailto:oussamachahidi20@gmail.com)
+[Website](https://oussamachahidi.me) · [LinkedIn](https://www.linkedin.com/in/oussama-chahidi-aa1252219/) · [X (Twitter)](https://x.com/Exo2Dev) · [Email](mailto:oussamachahidi20@gmail.com)
 
 </div>
 
 ---
 
-### About
+### ✦ About
 
-4+ years building and shipping startup products end to end , from design systems to production. Currently deepening my work in UI/UX.
+I design and engineer web applications with a heavy focus on user experience, micro-interactions, and visual precision. Over the past 4 years, I’ve taken products from rough wireframes to production-grade software. 
 
-Documenting the process publicly under **#buildinpublic** , following the build, not just the finished product.
+Currently bridging the gap between product design and engineering—building design systems, refining interactive details, and sharing the process in public.
 
-### Currently
+### ✦ Focus & Stack
 
-- 🔨 Building and maintaining open-source components
-- 📝 Sharing dev progress and lessons on Twitter/X and LinkedIn
-- 🎯 Sharpening UI/UX skills alongside engineering
+* **Frontend Craft:** React, NextJs, TypeScript, Tailwind CSS, Framer Motion, ShadCn/ui
+* **Backend Foundations:** NodeJs, Express, NestJs
+* **Design & Systems:** UI/UX Design, Design Systems, Interaction Design
+
+### ✦ Currently
+
+* 🎨 Designing and maintaining open-source UI components
+* ✍️ Documenting the build process under **#buildinpublic**
+* 📐 Deepening expertise in design systems and interface typography
